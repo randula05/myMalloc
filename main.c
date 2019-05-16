@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "mymalloc.h"
+#include "mymalloc.c"
 
 void main(){
     int *a= (int *)MyMalloc(1000);
