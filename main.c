@@ -8,7 +8,7 @@ void main(){
     int *d= (int *)MyMalloc(1000);
 
     Display();
-    printf("\n");
+    printf("Dispaly\n");
 
     MyFree(b);
     MyFree(c);
